@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/sJDcqS5/Health.png",
+      "title": "Health",
+      "description": "Support health initiatives to provide medical care."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/q7g7G36/Education.png",
+      "title": "Education",
+      "description": "Empower children with the gift of education."
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/0DdvjKB/Clothing.png",
+      "title": "Clothing",
+      "description": "Donate warm clothes and essentials to those in need."
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/mt6cNpk/Food.png",
+      "title": "Food",
+      "description": "Help fight hunger by supporting food banks."
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/mt6cNpk/Food.png",
+      "title": "Food",
+      "description": "Ensure access to healthcare for vulnerable populations."
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/0DdvjKB/Clothing.png",
+      "title": "Clothing",
+      "description": "Promote literacy and learning by building libraries."
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/q7g7G36/Education.png",
+      "title": "Education",
+      "description": "Clothe children for success."
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/sJDcqS5/Health.png",
+      "title": "Health",
+      "description": "Support local farmers and food producers."
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/sJDcqS5/Health.png",
+      "title": "Health",
+      "description": "Fund medical research and innovation."
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/q7g7G36/Education.png",
+      "title": "Education",
+      "description": "Bridge the digital divide."
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/0DdvjKB/Clothing.png",
+      "title": "Clothing",
+      "description": "Create job opportunities."
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/mt6cNpk/Food.png",
+      "title": "Food",
+      "description": "Promote sustainable agriculture."
+    }
+  ]
