@@ -6,7 +6,9 @@ const MainLayout = () => {
         <div className="max-w-[1300px] mx-auto">
 
             <Navbar></Navbar>         
-            <Outlet></Outlet>
+           <div className="py-8">
+           <Outlet></Outlet>
+           </div>
         </div>
     );
 };

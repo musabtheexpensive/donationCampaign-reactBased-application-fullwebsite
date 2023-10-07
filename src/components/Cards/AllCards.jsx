@@ -1,3 +1,5 @@
+/* eslint-disable no-undef */
+
 import { Link } from "react-router-dom";
 
 const AllCards = ({ card }) => {
@@ -5,7 +7,7 @@ const AllCards = ({ card }) => {
   return (
     
   <Link to={`/cards/${id}`}>
-      <div className="relative flex max-w-[24rem] flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
+      <div  className="relative flex max-w-[24rem] flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
         <div className="relative m-0 overflow-hidden rounded-none bg-transparent bg-clip-border text-gray-700 shadow-none">
           <img
             src={image}
