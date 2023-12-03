@@ -17,7 +17,7 @@ const Card = () => {
   console.log(card);
   return (
     <div>
-    <DonateCard card={card}></DonateCard>
+      <DonateCard card={card}></DonateCard>
     </div>
   );
 };
